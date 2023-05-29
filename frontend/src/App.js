@@ -2,13 +2,11 @@ import './App.css';
 
 function App() {
   return (
-    <div >
-      <header >
+    <div>
+      <header>
         <a href="/">amazona</a>
       </header>
-      <main>
-        list products
-      </main>
+      <main>list products her voruuuu suiiii</main>
     </div>
   );
 }
